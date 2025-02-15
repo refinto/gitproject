@@ -1,1 +1,1 @@
-belajar git utuk bisa berkolaborasi denan team di lokasi remote
+belajar git utuk bisa berkolaborasi dengan team di lokasi remote
